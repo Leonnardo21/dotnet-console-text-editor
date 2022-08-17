@@ -1,4 +1,5 @@
 ﻿using System;
+using System.IO;
 
 namespace TextEditor
 {
@@ -44,7 +45,22 @@ namespace TextEditor
             }
             while (Console.ReadKey().Key != ConsoleKey.Escape);
 
-            Console.Write(text);
+            Salvar(text);
+        }
+        static void Salvar(string text)
+        {
+            Console.Clear();
+            Console.WriteLine("QUal o caminho para salvar o arquivo?");
+            var path = Console.ReadLine();
+
+            using (var file = new StreamWriter(path))
+            {
+                file.Write(text);
+            }
+
+            Console.WriteLine($"Arquivo {path} salvo com sucesso!");
+            Console.ReadLine();
+            Menu();
         }
     }
 }
