@@ -15,9 +15,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\leoso\\source\\repos\\Balta.io\\TextEditor\\TextEditor.csproj",
-      "projectName": "TextEditor",
-      "projectPath": "C:\\Users\\leoso\\source\\repos\\Balta.io\\TextEditor\\TextEditor.csproj",
+      "projectUniqueName": "C:\\Users\\leoso\\source\\repos\\Balta.io\\TextEditor\\DotnetTextEditor.csproj",
+      "projectName": "DotnetTextEditor",
+      "projectPath": "C:\\Users\\leoso\\source\\repos\\Balta.io\\TextEditor\\DotnetTextEditor.csproj",
       "packagesPath": "C:\\Users\\leoso\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\leoso\\source\\repos\\Balta.io\\TextEditor\\obj\\",
       "projectStyle": "PackageReference",

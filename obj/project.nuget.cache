@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "8z2evOeFATWqrq6T9JJ89fD/Cc8bgvlZ3jpKYPyUmYOj9T/ni99xfmYLtl2bzqvyOLVtb0y29PN+hUXpyhz+cA==",
+  "dgSpecHash": "6b1mZkIQ4U3I9a3xKI4xrbrqWHAdZAKks3SbewQGCasZoTslD6qa4jTMD7SeR988fVz9ZbcwhNYQ6JWOyqkHng==",
   "success": true,
-  "projectFilePath": "C:\\Users\\leoso\\source\\repos\\Balta.io\\TextEditor\\TextEditor.csproj",
+  "projectFilePath": "C:\\Users\\leoso\\source\\repos\\Balta.io\\TextEditor\\DotnetTextEditor.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

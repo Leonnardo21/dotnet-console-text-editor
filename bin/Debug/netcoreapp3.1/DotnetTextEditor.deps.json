@@ -6,15 +6,15 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v3.1": {
-      "TextEditor/1.0.0": {
+      "DotnetTextEditor/1.0.0": {
         "runtime": {
-          "TextEditor.dll": {}
+          "DotnetTextEditor.dll": {}
         }
       }
     }
   },
   "libraries": {
-    "TextEditor/1.0.0": {
+    "DotnetTextEditor/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
